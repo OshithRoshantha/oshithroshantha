@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshithroshantha&label=Profile%20views&color=11158d&style=flat" alt="oshithroshantha" /> </p>
 
-- 🌱 I’m currently learning **MongoDB,React and MERN**
+- 🌱 I’m currently learning **React and MERN**
 
 - 💬 Ask me about **Java,Js,Python,R and C**
 
 - 📫 How to reach me **oedirisuriya@gmail.com**
-
-- ⚡ Fun fact **I break up with my PC, because it had too many "bytes" on the side... XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
