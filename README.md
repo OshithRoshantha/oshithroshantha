@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshith Roshantha</h1>
-<h3 align="center">I am an undergraduate student with a passion for the exciting intersection of Computer Science and Statistics.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshithroshantha&label=Profile%20views&color=11158d&style=flat" alt="oshithroshantha" /> </p>
 
