@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshithroshantha&label=Profile%20views&color=11158d&style=flat" alt="oshithroshantha" /> </p>
 
-- 🌱 I’m currently learning **React and MERN**
-
-- 💬 Ask me about **Java,Js,Python,R and C**
-
 - 📫 How to reach me **oedirisuriya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
