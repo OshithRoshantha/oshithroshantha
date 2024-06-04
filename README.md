@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="400" src="https://github.com/OshithRoshantha/testGit/assets/119157077/ec27ad52-d503-4e42-a5a5-aa3b268832bd"/>
+  <img width="600" src="https://github.com/OshithRoshantha/testGit/assets/119157077/a35f265e-3aeb-4e86-88b4-96399f519aa0"/>
 </div>
-<h1 align="center">Hi 👋, I'm Oshith Roshantha</h1>
+
 
 
 
