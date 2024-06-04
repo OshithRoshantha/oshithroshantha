@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif"/>
+  <img width="400" src="https://github.com/OshithRoshantha/testGit/assets/119157077/ec27ad52-d503-4e42-a5a5-aa3b268832bd"/>
 </div>
 <h1 align="center">Hi 👋, I'm Oshith Roshantha</h1>
 
