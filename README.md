@@ -24,7 +24,9 @@
 </div>
 
 <h3 align="center">Statistics</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshithroshantha&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="oshithroshantha" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshithroshantha&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="oshithroshantha" /><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshithroshantha&theme=tokyonight&locale=en&layout=compact" alt="oshithroshantha" />
+</p>
 
 
 <h3 align="center">Connect with me</h3>
@@ -33,5 +35,10 @@
 <a href="https://fb.com/oshithroshantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oshithroshantha" height="30" width="40" /></a>
 <a href="https://instagram.com/oshithroshantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oshithroshantha" height="30" width="40" /></a>
 </p>
+
+
+
+
+
 
 
